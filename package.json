@@ -1,0 +1,33 @@
+{
+  "name": "devwizardry",
+  "version": "1.0.2",
+  "description": "devwizardry",
+  "type": "module",
+  "main": "devwizardry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keisersalamonee1/devwizardry"
+  },
+  "website": "https://github.com/keisersalamonee1/devwizardry.git",
+  "keywords": [
+    "devwizardry"
+  ],
+  "author": "wujingjing2024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keisersalamonee1/devwizardry/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/keisersalamonee1/devwizardry#readme",
+  "dependencies": {
+    "codeforgekit": "1.0.2",
+    "toolgenius": "1.0.2",
+    "codesenseikit": "1.0.2"
+  }
+}
